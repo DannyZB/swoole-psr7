@@ -1,5 +1,5 @@
 {
-    "name": "dannyzb/swoole-convert-psr7",
+    "name": "dannyzb/swoole-psr7",
     "description": "convert swoole to psr7 request response",
     "authors": [
         {
